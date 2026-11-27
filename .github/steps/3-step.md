@@ -6,7 +6,7 @@ Your spec validates, @{{ login }}! :tada: But valid is not the same as ready. Be
 
 **Ready to build** is a human gate: the scope is bounded, named people have answered the material questions, assumed capabilities are confirmed with evidence, and every scenario has synthetic test data with a source and an owner. An unconfirmed capability blocks the gate, and an AI answer is not confirmation, so **not ready** with named blockers, owners and next actions is a respectable, useful result. To show later whether the change helped, record one or two delivery measures now: what is counted, the baseline period, the source, the owner and when the baseline will be available. Never invent a baseline: write `unknown — owner to provide` and treat it as a collection task, not as zero.
 
-<img width="800" alt="The Ready to build gate. The gate asks four things: scope is bounded, because the proposal and its non-goals are agreed; questions are answered by named people; capabilities are confirmed by a named role with evidence; and every scenario has synthetic test data with a source and an owner. A person then decides. Ready: build it and track the measures you chose. Not ready: name each blocker, its owner and the next action. Measures record what is counted, the baseline period, the source and the owner; with no baseline yet, write who collects it. An AI answer is not confirmation." src="../images/readiness-gate.png">
+<img width="800" alt="The Ready to build gate. The gate asks four things: scope is bounded, because the proposal and its non-goals are agreed; questions are answered by named people; capabilities are confirmed by a named role with evidence; and every scenario has synthetic test data with a source and an owner. A person then decides. Ready: build it and track the measures you chose. Not ready: name each blocker, its owner and the next action. Measures record what is counted, the baseline period, the source and the owner; with no baseline yet, write who collects it. An AI answer is not confirmation." src="https://github.com/hackathon-purple-emu-16/pod0-skills-spec-driven-first-spec/blob/main/.github/images/readiness-gate.png?raw=true">
 
 ### ⌨️ Activity 1: Complete the readiness record
 
@@ -86,7 +86,7 @@ Your spec validates, @{{ login }}! :tada: But valid is not the same as ready. Be
 
    > 💡 **Tip:** If a **Compare & pull request** banner appears for `first-spec`, you can use it instead.
 
-   <img width="600" alt="A repository page with a yellow banner about a branch with recent pushes and a green Compare and pull request button. The branch name in the screenshot is an example; yours is first-spec." src="../images/compare-pull-request.png">
+   <img width="600" alt="A repository page with a yellow banner about a branch with recent pushes and a green Compare and pull request button. The branch name in the screenshot is an example; yours is first-spec." src="https://github.com/hackathon-purple-emu-16/pod0-skills-spec-driven-first-spec/blob/main/.github/images/compare-pull-request.png?raw=true">
 
 1. Go back to the exercise issue. Wait a moment for Mona to check your work, provide feedback, and share the next lesson.
 

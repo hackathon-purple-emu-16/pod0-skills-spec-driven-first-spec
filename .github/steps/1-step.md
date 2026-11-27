@@ -1,6 +1,6 @@
 ## Step 1: Frame the problem in a proposal
 
-<img width="800" alt="Exercise 4 of 4 of the Spec-Driven Delivery workshop: Draft Your First Spec. Frame an unfamiliar problem as a validated change, and decide whether it is ready to build. Tools: Codespaces, GitHub Copilot and OpenSpec. Focus of this exercise: Intent, Requirement and Scenario." src="../images/banner.png">
+<img width="800" alt="Exercise 4 of 4 of the Spec-Driven Delivery workshop: Draft Your First Spec. Frame an unfamiliar problem as a validated change, and decide whether it is ready to build. Tools: Codespaces, GitHub Copilot and OpenSpec. Focus of this exercise: Intent, Requirement and Scenario." src="https://github.com/hackathon-purple-emu-16/pod0-skills-spec-driven-first-spec/blob/main/.github/images/banner.png?raw=true">
 
 Welcome to the Contoso Health Plan delivery team, @{{ login }}! :wave: In the earlier exercises of this workshop, someone else framed each problem. Now your lead hands you a problem nobody has specified yet and asks for a first spec by the end of the session. Copilot will be your drafting partner, but every decision in this exercise is yours.
 
@@ -60,7 +60,7 @@ Set up your computer once with the workshop's [local setup guide](https://github
 
    > ⏳ **Wait:** You are ready when the bottom-left corner of the editor shows **Codespaces** followed by your codespace's name.
 
-   <img width="400" alt="The bottom-left corner of the editor's Status Bar showing Codespaces followed by a generated codespace name" src="../images/codespaces-status.png">
+   <img width="400" alt="The bottom-left corner of the editor's Status Bar showing Codespaces followed by a generated codespace name" src="https://github.com/hackathon-purple-emu-16/pod0-skills-spec-driven-first-spec/blob/main/.github/images/codespaces-status.png?raw=true">
 
 1. Open a terminal with `` Ctrl+` `` (also on Mac), or from the menu (☰) at the top left with **Terminal** > **New Terminal**. Then create a branch for your work.
 
@@ -77,7 +77,7 @@ Set up your computer once with the workshop's [local setup guide](https://github
 
 - **No terminal is visible:** In the panel at the bottom of the editor, select the **TERMINAL** tab. If there is no panel, press `` Ctrl+` `` (also on Mac).
 
-  <img width="460" alt="The editor's bottom panel with the TERMINAL tab selected, next to PROBLEMS, OUTPUT, DEBUG CONSOLE and PORTS" src="../images/terminal-tab.png">
+  <img width="460" alt="The editor's bottom panel with the TERMINAL tab selected, next to PROBLEMS, OUTPUT, DEBUG CONSOLE and PORTS" src="https://github.com/hackathon-purple-emu-16/pod0-skills-spec-driven-first-spec/blob/main/.github/images/terminal-tab.png?raw=true">
 
 - **The codespace opened the original exercise:** Close that tab and use the button above, which points to your copy. You can also start one from your repository page: **Code** > **Codespaces** > **Create codespace on main**.
 
