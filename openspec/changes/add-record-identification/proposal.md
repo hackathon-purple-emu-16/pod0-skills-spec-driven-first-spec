@@ -4,6 +4,8 @@ Contoso's intake staff currently find records for Northwind Traders requests usi
 
 This is a draft proposal, not an approved requirement. The business intent, actors, scope, and non-goals still require human confirmation.
 
+The accompanying specification contains proposed decisions made in response to the request to settle the open questions, not approved requirements. The intent brief confirms the constraints against guessing, unnecessary disclosure, real data, and assuming an index or unique key; it does not confirm the proposed matching or permission rules.
+
 ## What Changes
 
 Proposed behaviors, pending confirmation:
@@ -15,6 +17,8 @@ Proposed behaviors, pending confirmation:
 - Specify exact matching fields and normalization rules after human decisions; neither the current field combination nor any normalization is approved by this proposal.
 
 The lookup's actual search scope and how it will be verified remain open. No linked issue, active change, or related Gherkin scenarios were supplied or found; the existing member-eligibility specification addresses a separate capability.
+
+Proposed scope in the draft specification: identification for Northwind Traders requests by authorized Contoso intake staff, searching the claims and legacy billing systems. A designated Operations Intake resolver owns unresolved cases. This change does not grant that role additional data access or permit it to override the matching rule. Actual source coverage, lookup feasibility, and role assignments require verification before approval or implementation. No resolution-time commitment is proposed without operational confirmation.
 
 ## Non-goals
 
